@@ -1,0 +1,104 @@
+[
+  {
+    "name": "1. topic",
+    "amount": 1,
+    "sub": [
+      {
+        "name": "1.1 topic",
+        "amount": 11,
+        "sub": [
+          {
+            "name": "1.1.1 topic",
+            "amount": 111,
+            "sub": [
+              {
+                "name": "1.1.1.2 topic",
+                "amount": 17,
+                "sub": []
+              },
+              {
+                "name": "1.1.1.1opic",
+                "amount": 15,
+                "sub": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "1.2opic",
+        "amount": 12,
+        "sub": [
+          {
+            "name": "1.2.1topic",
+            "amount": 2,
+            "sub": [
+              {
+                "name": "1.2.1.1opic",
+                "amount": 12,
+                "sub": []
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "2. topic",
+    "amount": 2,
+    "sub": [
+      {
+        "name": "2.1topic",
+        "amount": 21,
+        "sub": []
+      }
+    ]
+  },
+  {
+    "name": "3.topic",
+    "amount": 0,
+    "sub": [
+      {
+        "name": "3.1topic",
+        "amount": 1,
+        "sub": [
+          {
+            "name": "3.1.1topic",
+            "amount": 2,
+            "sub": [
+              {
+                "name": "3.1.1.1topic",
+                "amount": 3,
+                "sub": [
+                  {
+                    "name": "3.1.1.1.1topic",
+                    "amount": 4,
+                    "sub": [
+                      {
+                        "name": "3.1.1.1.1.1topic",
+                        "amount": 5,
+                        "sub": [
+                          {
+                            "name": "3.1.1.1.1.1.1topic",
+                            "amount": 6,
+                            "sub": []
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "4.topic",
+    "amount": 30,
+    "sub": []
+  }
+]
